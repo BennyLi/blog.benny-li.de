@@ -1,3 +1,8 @@
-[submodule "blog/themes/split"]
-	path = blog/themes/split
+[submodule "blog/public"]
+	path = blog/public
+	url = git@github.com:BennyLi/BennyLi.github.io.git
+	branch = master
+[submodule "blog/themes/hugo-split-theme"]
+	path = blog/themes/hugo-split-theme
 	url = https://github.com/escalate/hugo-split-theme.git
+	branch = master
